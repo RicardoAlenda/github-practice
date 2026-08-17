@@ -1,2 +1,3 @@
-# github-practice
-My first GitHub practice project
+# My github-practice
+This is my first GitHub repository.
+I am learnig hoow Git and GitHub work.
