@@ -7,3 +7,5 @@
 -History
 -Diff
 -Reverting changes
+-Git clone
+-Git status
