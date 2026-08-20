@@ -9,3 +9,5 @@
 -Reverting changes
 -Git clone
 -Git status
+-Git push
+-Git pull
